@@ -1,4 +1,4 @@
-# Pokémon Crystal | Fourth Stat Screen
+# Pokémon Crystal | Fourth Pokémon Stat Screen
 
 ![alt text](https://i.imgur.com/FL7A1at.png "Fourth Stat Screen Image")
 
