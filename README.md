@@ -7,4 +7,4 @@ This is a simple implementation of a new Pokémon stat screen.
 
 ## CREDITS
 
-This feature was ported from Polished Crystal which was ported from TPP Anniversary.
+This feature was ported from [Polished Crystal](https://github.com/Rangi42/polishedcrystal) which was ported from [TPP Anniversary](https://github.com/TwitchPlaysPokemon/tppcrystal251pub).
